@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mini.advanced.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mini.advanced.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mini.advanced.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mini.advanced.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/advanced.iml" filepath="$PROJECT_DIR$/.idea/modules/advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/advanced.main.iml" filepath="$PROJECT_DIR$/.idea/modules/advanced.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/advanced.test.iml" filepath="$PROJECT_DIR$/.idea/modules/advanced.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proxy.iml" filepath="$PROJECT_DIR$/.idea/modules/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/proxy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/proxy.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/proxy.test.iml" filepath="$PROJECT_DIR$/.idea/modules/proxy.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-core-advanced2.iml" filepath="$PROJECT_DIR$/.idea/spring-core-advanced2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-core-advanced.iml" filepath="$PROJECT_DIR$/.idea/spring-core-advanced.iml" />
     </modules>
   </component>
 </project>
